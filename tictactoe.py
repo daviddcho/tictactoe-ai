@@ -1,7 +1,8 @@
 import math
+
 # TIC-TAC-TOE AI with Minimax Algorithm + alpha-beta pruning
 
-# ---- Global Variables ----
+# Global Variables
 # Game board
 board = [["-", "-", "-"],
          ["-", "-", "-"],
@@ -189,7 +190,7 @@ def find_best_move():
 
 def play_game():
     global game_going, play_again
-
+    # While player wants to play game
     while play_again:
         # Display starting board
         display_board()
@@ -214,7 +215,7 @@ def play_game():
             print("The game was a tie.")
         else:
             print(winner + " won.")
-
+        # Ask player if they want to continue playing
         cont = input("Do you want to play again? (YES/NO) ")
         if cont == 'YES':
             reset_board(winner)
