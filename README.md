@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-AI
-tic tac toe with minimax algorithm + alpha-beta pruning
+tic tac toe AI with minimax algorithm + alpha-beta pruning, implemented in pygame
 
 ### Require
 install `pygame`
