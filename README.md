@@ -13,3 +13,5 @@ python tictactoe-ai
 
 ### Demo
 <img src="demo.gif" width="400">
+
+alphatoe
