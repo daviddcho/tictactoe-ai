@@ -8,7 +8,7 @@ install `pygame`
 ```
 git clone https://github.com/daviddcho/tictactoe-ai.git
 cd tictactoe-ai
-python tictactoe-ai
+python tictactoe.py
 ```
 
 ### Demo
