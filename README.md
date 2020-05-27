@@ -6,7 +6,7 @@ install `pygame`
 
 ### Usage
 ```
-git clone https://github.com/davidispracticing123/tictactoe-ai.git
+git clone https://github.com/daviddcho/tictactoe-ai.git
 cd tictactoe-ai
 python tictactoe-ai
 ```
